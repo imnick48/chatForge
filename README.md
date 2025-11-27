@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ### **2. Add Your API Key**
 
-Create a `.env` file in the backend directory:
+In the `.env` file in the backend directory:
 
 ```
 OPENROUTER_API_KEY=your_api_key_here
