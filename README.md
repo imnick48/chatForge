@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** for your project **chatForge**:
-
----
-
 # **chatForge**
 
 An advanced AI-powered chatbot system that seamlessly switches between **OpenRouter’s Llama 3.3 Instruct 70B** model and a **local fallback chat engine**. All conversations are **saved**, and once a chat ends, the system performs a powerful **sentiment and trend analysis** using a **custom LSTM model trained on 60,000+ samples**.
